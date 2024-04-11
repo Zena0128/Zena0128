@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Welcome%20to%20Zena's%20GitHub!&fontSize=40&fontAlignY=40)
+<div align="center">
+  <img src="Professional CV Resume (1)_preview_rev_1 (1).png">
+</div>
 
 
 ### 🐢 신입 백엔드 개발자 이정아의 깃허브입니다 
