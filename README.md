@@ -3,8 +3,6 @@
 </div>
 
 
-### 🐢 신입 백엔드 개발자 이정아의 깃허브입니다 
-
 <!--
 **Zena0128/Zena0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
