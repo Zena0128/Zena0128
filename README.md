@@ -14,7 +14,7 @@
 
 - 📝 [기술블로그] I regularly write articles on [BLOG](https://velog.io/@zena128/posts)
 
-- 📄 [이력서] Know about my experiences [RESUME](https://www.canva.com/design/DAGCBiZA0JQ/FT3dYsagRYiSz01MG8q8mA/view?utm_content=DAGCBiZA0JQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h904126abf6)
+- 📄 [이력서] Know about my experiences [RESUME]([https://www.canva.com/design/DAGCBiZA0JQ/FT3dYsagRYiSz01MG8q8mA/view?utm_content=DAGCBiZA0JQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h904126abf6](https://vivid-feeling-80a.notion.site/15780b159989809ba43ec1fe125d5dc2))
 
 - 📫 How to reach me **zenalee128@gmail.com**
 
