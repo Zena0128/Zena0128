@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 [포트폴리오] All of my projects are available at [https://vivid-feeling-80a.notion.site/b7bf94c8b34a48eaabee915c64e5bb78](https://vivid-feeling-80a.notion.site/b7bf94c8b34a48eaabee915c64e5bb78)
+- 👨‍💻 [포트폴리오] All of my projects are available at [PORTFOLIO](https://vivid-feeling-80a.notion.site/b7bf94c8b34a48eaabee915c64e5bb78)
 
-- 📝 [기술블로그] I regularly write articles on [https://velog.io/@zena128/posts](https://velog.io/@zena128/posts)
+- 📝 [기술블로그] I regularly write articles on [BLOG](https://velog.io/@zena128/posts)
 
-- 📄 [이력서] Know about my experiences [https://vivid-feeling-80a.notion.site/15780b159989809ba43ec1fe125d5dc2?pvs=74](https://vivid-feeling-80a.notion.site/15780b159989809ba43ec1fe125d5dc2?pvs=74)
+- 📄 [이력서] Know about my experiences [RESUME](https://www.canva.com/design/DAGCBiZA0JQ/FT3dYsagRYiSz01MG8q8mA/view?utm_content=DAGCBiZA0JQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h904126abf6)
 
 - 📫 How to reach me **zenalee128@gmail.com**
 
